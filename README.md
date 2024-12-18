@@ -18,5 +18,12 @@ INPUT PICTURE
 
 OUTPUT PICTURE
 
+![Screenshot 2024-12-18 124244](https://github.com/user-attachments/assets/b077908d-937d-437c-b659-3a6174d854c7)
+
+Further, this project can be used for vehicle license plate detection at interstate borders, airports, and harbours. The elements considered in this project include the following:
+Number plate detection. Both front and back number plates of a vehicle are considered for detection.
+Text extraction from the detected number plate. It can extract the text of only one vehicle number plate at a time.
+
+
 
 
