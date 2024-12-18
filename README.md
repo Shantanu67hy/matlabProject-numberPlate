@@ -16,9 +16,15 @@ INPUT PICTURE
 
 ![vehical2image](https://github.com/user-attachments/assets/eb030d1f-054f-41bf-ad7b-4bc2698cd0a8)
 
+![vehicalImage](https://github.com/user-attachments/assets/ba8f9c84-8123-46b4-8f8f-85b53eaf7bf6)
+
+
 OUTPUT PICTURE
 
 ![Screenshot 2024-12-18 124244](https://github.com/user-attachments/assets/b077908d-937d-437c-b659-3a6174d854c7)
+
+![Screenshot 2024-12-18 124913](https://github.com/user-attachments/assets/39924446-c57d-4fe8-aeb6-09e6f62356c7)
+
 
 Further, this project can be used for vehicle license plate detection at interstate borders, airports, and harbours. The elements considered in this project include the following:
 Number plate detection. Both front and back number plates of a vehicle are considered for detection.
