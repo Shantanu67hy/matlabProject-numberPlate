@@ -12,7 +12,11 @@ This project can be used in the following areas:
 		Flexible and automatic vehicle entry and exit from a car parking area
 		Car parking management system
 		Improved security for the car parking operators
-  
 INPUT PICTURE 
+
 ![vehical2image](https://github.com/user-attachments/assets/eb030d1f-054f-41bf-ad7b-4bc2698cd0a8)
+
+OUTPUT PICTURE
+
+
 
